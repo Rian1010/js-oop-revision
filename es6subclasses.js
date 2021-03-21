@@ -9,6 +9,7 @@ class Book {
         return `${this.title} was written by ${this.author} in ${this.year}`;
     }
 } // Comment to test git branch
+// Another feature
 
 // Magazine Subclass
 class Magazine extends Book {
