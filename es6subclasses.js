@@ -8,7 +8,7 @@ class Book {
     getSummary() {
         return `${this.title} was written by ${this.author} in ${this.year}`;
     }
-}
+} // Comment to test git branch
 
 // Magazine Subclass
 class Magazine extends Book {
